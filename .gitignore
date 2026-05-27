@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+*.py[cod]
+*.pyc
+.pytest_cache/
+.venv/
+certs/*.key
+certs/*.crt
+certs/*.pem
+.env
+*.log
